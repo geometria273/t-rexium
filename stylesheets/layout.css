@@ -397,6 +397,9 @@ footer {
   position: relative;
   width: 75%;
 }
+.image-with-text img{
+  border-radius: 28px;
+}
 .shop-image {
   width: 100%;
   border-radius: 28px;
