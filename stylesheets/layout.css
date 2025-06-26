@@ -391,6 +391,7 @@ footer {
 .shop-container {
   display: flex;
   justify-content: center;
+  padding-top: 16px;
 }
 .image-with-text {
   position: relative;
